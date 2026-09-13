@@ -1,0 +1,7 @@
+fastapi==0.141.1
+# Explicitly pin the patched framework layer instead of allowing an older
+# Starlette already present in a deployment image to satisfy FastAPI's range.
+starlette==1.6.0
+pydantic-settings==2.15.0
+supabase==2.31.0
+uvicorn[standard]==0.52.4

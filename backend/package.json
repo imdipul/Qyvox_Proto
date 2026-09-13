@@ -1,0 +1,16 @@
+{
+  "name": "@qyvox/verifier-runtime",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pinned Node verifier used by the Qyvox FastAPI service",
+  "type": "module",
+  "scripts": {
+    "test:live": "node live_integration_test.mjs"
+  },
+  "dependencies": {
+    "snarkjs": "0.7.6"
+  },
+  "overrides": {
+    "underscore": "1.13.8"
+  }
+}

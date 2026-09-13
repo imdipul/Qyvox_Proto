@@ -1,0 +1,1 @@
+globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/opengraph-image/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"/Users/thepoolwinpc/Desktop/Qyvox/frontend/app/opengraph-image/route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}};

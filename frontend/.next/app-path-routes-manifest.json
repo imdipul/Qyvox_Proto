@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/icon.png/route": "/icon.png",
+  "/opengraph-image/route": "/opengraph-image",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/twitter-image/route": "/twitter-image",
+  "/faq/page": "/faq",
+  "/docs/page": "/docs",
+  "/page": "/",
+  "/research/page": "/research",
+  "/whitepaper/page": "/whitepaper"
+}

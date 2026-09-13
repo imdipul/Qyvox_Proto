@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/opengraph-image/route": "app/opengraph-image/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/twitter-image/route": "app/twitter-image/route.js",
+  "/faq/page": "app/faq/page.js",
+  "/docs/page": "app/docs/page.js",
+  "/page": "app/page.js",
+  "/research/page": "app/research/page.js",
+  "/whitepaper/page": "app/whitepaper/page.js"
+}
